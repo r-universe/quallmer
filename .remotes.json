@@ -1,0 +1,8 @@
+[
+  {
+    "package": "ellmer",
+    "url": "https://github.com/tidyverse/ellmer",
+    "via": ["quallmer"],
+    "from": "quallmer"
+  }
+]
